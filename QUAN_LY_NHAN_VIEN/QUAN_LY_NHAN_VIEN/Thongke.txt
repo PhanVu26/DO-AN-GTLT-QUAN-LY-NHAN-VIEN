@@ -1,0 +1,6 @@
+*******   BANG THONG KE THUC LINH THEO DON VI    *****
+
+Don vi    |So NV Nam   |So NV Nu  |Tong Thuc Linh
+Ke toan   |3           |3         |13706.3    
+Nhan su   |2           |1         |5525       
+Quan ly   |2           |0         |14280      

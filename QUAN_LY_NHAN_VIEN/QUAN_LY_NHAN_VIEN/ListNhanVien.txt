@@ -1,0 +1,18 @@
+***************************************DANH SACH NHAN VIEN CONG TY******************************************
+------------------------------------------------------------------------------------------------------------
+STT|Ma NV    |Ho         |Ten           |Gioi Tinh   |Ngay Sinh |Chuc Vu  |Don Vi  |He So Luong 
+
+1  |NV01     |Le         |Anh           |Nam       |20/10/1990  |PP       |Nhan su |2      
+2  |NV02     |Phan       |Vu            |Nam       |12/12/1965  |NV       |Nhan su |2     
+3  |NV03     |Nguyen Thi |Hoa           |Nu        |01/01/1985  |NV       |Nhan su |2          
+4  |NV04     |Phan       |Viet          |Nam       |01/05/1995  |NV       |Ke toan |2          
+5  |NV05     |Tran Anh   |Tong          |Nam       |10/02/1985  |NV       |Ke toan |2   
+6  |NV06     |Le Minh    |Thu           |Nu        |20/01/1966  |NV       |Nhan su |2  
+7  |NV07     |Nguyen     |Tao           |Nam       |10/02/1995  |PGD      |Quan ly |5.5      
+8  |NV18     |Le Duc     |Minh          |Nam       |01/07/1975  |NV       |Nhan su |2   
+9  |NV09     |Tran Thi   |Thanh         |Nu        |10/02/1960  |TP       |Nhan su |3.5            
+10 |NV10     |Tran       |Hung          |Nam       |20/01/1990  |NV       |Ke toan |2         
+11 |NV11     |Le Thi     |Hoa           |Nu        |20/08/1970  |PP       |Ke toan |3          
+12 |NV12     |Nguyen     |Diem          |Nu        |08/01/1985  |TP       |Ke toan |3.5        
+13 |NV13     |Nguyen     |Anh           |Nam       |12/10/1995  |NV       |Nhan su |2          
+14 |NV14     |Nguyen Van |Toan          |Nam       |10/09/1995  |GD       |Quan ly |6.5        
